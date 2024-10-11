@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+audio {
+  margin-top: 20px;
+}
